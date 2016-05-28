@@ -1,0 +1,2 @@
+export WECHAT_KEY="TAO LIU"
+export WECHAT_SECRET="123"
