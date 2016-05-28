@@ -1,5 +1,3 @@
-import { Meteor } from 'meteor/meteor';
-
 if(Meteor.isServer){
 	var WECHAT_KEY = process.env.WECHAT_KEY;
 	var WECHAT_SECRET = process.env.WECHAT_SECRET;
